@@ -1,3 +1,5 @@
+Offloading/backhauling networks have gained considerable attention for their ability to transmit sensor data from environments lacking conventional network access, like cellular towers. In these setups, devices such as smartphones, laptops, and tablets receive transmissions from sensors and transmit them to a cloud server whenever they connect to a traditional network. Prominent examples include Apple AirTags.
+
 Steps to compile and execute programs:
 
 1. ensure Source-Code directory is in contiki-ng/examples/
